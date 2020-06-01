@@ -7,7 +7,7 @@ const CardList = ({robots}) => {
         throw new Error('Whopppsss!!!');
     }
     */
-    console.log('CardList')
+    //console.log('CardList')
     return (
         <div>
             {
